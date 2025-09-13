@@ -1,9 +1,2 @@
-HELLO ALL my name is JAYANTHI 
-<br>
-Today's session was Intresting.
-<br>
-I had great time today
-learned new things
-<br>
-Author-Jayanthi
+Hi, I’m Jayanthi, a passionate Computer Science Engineering student with a love for building creative web solutions and exploring AI & ML. I’ve worked on 20+ frontend tools during my internship at Almanac and developed projects like Gloria MedBot and interactive calculators. Skilled in HTML, CSS, JavaScript, and Python, I enjoy solving real-world problems with code and continuously learning new technologies to grow as a developer.
 
